@@ -15,15 +15,15 @@ over different timeframes.
   Provide insights of new emerging competitions and their impact on other automotive companies.
 
 ## Key Columns and Descriptions
-  Name 
-  YoY_sales_aug'24
-  YoY_sales_aug'23
-  YoY_growth_%
-  MoM_sales_aug'24
-  MoM_sales_july'24
-  MoM_growth_%
-  MarketShare_aug'24_%
-  MarketShare_aug'23_%
+  Name,
+  YoY_sales_aug'24,
+  YoY_sales_aug'23,
+  YoY_growth_%,
+  MoM_sales_aug'24,
+  MoM_sales_july'24,
+  MoM_growth_%,
+  MarketShare_aug'24_%,
+  MarketShare_aug'23_%,
   MarketShare_diff_%
   
 
