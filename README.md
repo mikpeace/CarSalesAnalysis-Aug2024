@@ -1,9 +1,9 @@
-## CarSalesAnalysis-Aug2024
+# CarSalesAnalysis-Aug2024
 
 This project focuses on analyzing car sales data for August 2024 using SQL. The dataset provides insights into sales performance, market trends, and growth patterns of various car brands
 over different timeframes.
 
-## Table of Contents:
+# Table of Contents:
 
 # Dataset Overview
   The dataset used in this project contains sales data for 14 car brands. It includes year-on-year (YoY) and month-on-month (MoM) comparisons, market share percentages, and growth metrices.
