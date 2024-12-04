@@ -27,7 +27,7 @@ over different timeframes.
   MarketShare_diff_%
   
 
-# Database Schema
+## Database Schema
   CREATE TABLE CarSalesAnalysis (
     RANK INT,
     name VARCHAR(100),
@@ -43,17 +43,17 @@ over different timeframes.
   );
 
 
-# Getting Started
+## Getting Started
   Clone this repository:
   git clone https://github.com/mikpeace/CarSalesAnalysis-Aug2024.git
 
   Import the dataset into your SQL database.
   Run the SQL queries provided in the queries folder to explore the data.
   
-# Contributing
+## Contributing
   Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-# License
+## License
   MIT License
 
 Copyright (c) 2024 Mikpeace
