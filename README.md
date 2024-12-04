@@ -15,7 +15,7 @@ over different timeframes.
   Provide insights of new emerging competitions and their impact on other automotive companies.
 
 ## Data 
-  The data for this analysis is stored in the 'Data' folder. The CSV file 'car_sales_data_august_2024.csv' 
+  The data for this analysis is stored in the 'car_sales_data_august_2024.csv' file 
   contains sales figures of car makers used as data for writing queries.
 ## Key Columns and Descriptions
   Name,
