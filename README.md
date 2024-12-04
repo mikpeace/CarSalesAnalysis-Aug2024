@@ -14,6 +14,9 @@ over different timeframes.
   Identify shifts in market share and their potential drivers.
   Provide insights of new emerging competitions and their impact on other automotive companies.
 
+## Data 
+  The data for this analysis is stored in the 'Data' folder. The CSV file 'car_sales_data_august_2024.csv' 
+  contains sales figures of car makers used as data for writing queries.
 ## Key Columns and Descriptions
   Name,
   YoY_sales_aug'24,
