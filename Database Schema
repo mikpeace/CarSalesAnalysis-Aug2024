@@ -1,0 +1,13 @@
+CREATE TABLE CarSalesAnalysis (
+    RANK INT,
+    name VARCHAR(100),
+    YoY_Analysis_Aug24 INT,
+    YoY_Analysis_Aug23 INT,
+    YoY_Growth_Percent FLOAT,
+    MoM_Analysis_Aug24 INT,
+    MoM_Analysis_July24 INT,
+    MoM_Growth_Percent FLOAT,
+    Market_Share_Aug24_Percent FLOAT,
+    Market_Share_Aug23_Percent FLOAT,
+    Market_Share_Dif_Percent FLOAT
+  );
