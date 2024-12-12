@@ -15,9 +15,9 @@ over different timeframes.
   Provide insights of new emerging competitions and their impact on other automotive companies.
 
 ## Data 
-  The data for this analysis is stored in the 'car_sales_data_august_2024.csv' file 
+  The data for this analysis is stored in the 'car_sales_data_august_2024.csv' file, which                            
   contains sales figures of car makers used as data for writing queries.
-## Key Columns and Descriptions
+## Key Columns
   Name,
   YoY_sales_aug'24,
   YoY_sales_aug'23,
@@ -31,19 +31,7 @@ over different timeframes.
   
 
 ## Database Schema
-  CREATE TABLE CarSalesAnalysis (
-    RANK INT,
-    name VARCHAR(100),
-    YoY_Analysis_Aug24 INT,
-    YoY_Analysis_Aug23 INT,
-    YoY_Growth_Percent FLOAT,
-    MoM_Analysis_Aug24 INT,
-    MoM_Analysis_July24 INT,
-    MoM_Growth_Percent FLOAT,
-    Market_Share_Aug24_Percent FLOAT,
-    Market_Share_Aug23_Percent FLOAT,
-    Market_Share_Dif_Percent FLOAT
-  );
+  The code for database schema is stored in the 'Database Schema' file.
 
 
 ## Getting Started
