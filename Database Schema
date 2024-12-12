@@ -1,6 +1,5 @@
 CREATE TABLE CarSalesAnalysis (
-    RANK INT,
-    name VARCHAR(100),
+    Name VARCHAR(100),
     YoY_Analysis_Aug24 INT,
     YoY_Analysis_Aug23 INT,
     YoY_Growth_Percent FLOAT,
